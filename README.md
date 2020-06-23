@@ -1,5 +1,5 @@
 # php_laravel_challenge
-A code test to assess developer skills, during the recruitment process for nayojobs.com
+A code test to assess developer skills
 
 Create a project to manage companies and their employees.
 
